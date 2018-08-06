@@ -1,5 +1,5 @@
 
-pro get_setup, bridge_direc=bridge_direc, mac_os=mac_os, linux_os=linux_os, $
+pro get_bridge_setup, bridge_direc=bridge_direc, mac_os=mac_os, linux_os=linux_os, $
                     idl_ver=idl_ver, py_ver=py_ver, py_dist=py_dist
 
 ;+
